@@ -2,22 +2,22 @@
 Batch convert files from Animated PNG to Webp format
 
 
-Requirements
+#Requirements
 Windows 64bit
 Mingw64/Cygwin/Git-Bash to run "bash" files
 
-How to Run
+#How to Run
 cd to the folder containing "only" the input APNGs
 run the [Downloaded-Path]/run.bash from there
 
-Beware
+#Beware
 There is NO Error-Catching/Backup/RollBack!
 Keep a backup of your original files
 
-Contribute
+#Contribute
 Contributions are welcome
 
-Using
+#Using
 apngdis.exe - APNG Disassembler
 http://apngdis.sourceforge.net/
 
