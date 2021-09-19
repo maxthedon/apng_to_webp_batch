@@ -11,7 +11,8 @@ Windows 64bit.
  Run the [Downloaded-Path]/run.bash from there.
 
 ### Beware
-All the files will be **RENAMED** to numbers in a sequence, you can edit this behaviour by removing rename script from run.bash.
+All the files will be **RENAMED** to numbers in a sequence, you can edit this behaviour by removing rename script from run.bash .
+
 There is **NO** Error-Catching/Backup/RollBack!
 Keep a backup of your original files.
 
